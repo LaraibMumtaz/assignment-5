@@ -204,6 +204,7 @@ if (number3 > 0) {
 //Instructions: Write a program that prints the multiplication table of a given number up to 10.
 
 
+
 let number4: number = 7;
 
 if (number4 >= 1 && number4 <= 10) {
@@ -214,7 +215,6 @@ if (number4 >= 1 && number4 <= 10) {
 } else {
     console.log("Please enter a number between 1 and 10.");
 }
-
 
 
 
